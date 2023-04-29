@@ -1,0 +1,6 @@
+org\in5bm\luisperez\models\idao\IMateriaDAO.class
+org\in5bm\luisperez\system\Principal.class
+org\in5bm\luisperez\db\Conexion.class
+org\in5bm\luisperez\models\dao\MateriasDaoImpl.class
+org\in5bm\luisperez\controllers\MateriaController.class
+org\in5bm\luisperez\models\domain\Materia.class
